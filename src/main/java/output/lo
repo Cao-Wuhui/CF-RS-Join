@@ -1,0 +1,86 @@
+************FPSJoin************
+The number of set is 0 The number of elem is 0
+treeType: fpstree
+method: lenv1
+partitioner: 2147483647
+rInput: src/main/java/input/r_1w_dec.txt
+sInput: src/main/java/input/s_1w_dec.txt
+output: src/main/java/output/out
+threshold: 0.7
+numReducer: 1
+numThread: 4
+job1Time: 0.475
+job2Time: 5.92
+jobTime: 6.722
+diskUsage: 0.8386812210083008 MB
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+The number of set is 0 The number of elem is 0
+treeType: fpstree
+method: lenv1
+partitioner: 2147483647
+rInput: I:\集合相似度计算\CF-RS-Join\src\main\java\input\r_1w_dec.txt
+sInput: I:\集合相似度计算\CF-RS-Join\src\main\java\input\s_1w_dec.txt
+output: I:\集合相似度计算\CF-RS-Join\src\main\java\output
+threshold: 0.7
+numReducer: 1
+numThread: 4
+job1Time: 0.342
+job2Time: 4.732
+jobTime: 5.744
+diskUsage: 0.8394708633422852 MB
+allReadOps: 0
+allWriteOps: 0
+************FPSJoin************
+The number of set is 0 The number of elem is 0
+treeType: fpstree
+method: lenv1
+partitioner: 2147483647
+rInput: I:\集合相似度计算\CF-RS-Join\src\main\java\input\r_1w_dec.txt
+sInput: I:\集合相似度计算\CF-RS-Join\src\main\java\input\s_1w_dec.txt
+output: I:\集合相似度计算\CF-RS-Join\src\main\java\output
+threshold: 0.7
+numReducer: 1
+numThread: 1
+job1Time: 0.33
+job2Time: 5.118
+jobTime: 6.204
+diskUsage: 0.8394708633422852 MB
+allReadOps: 0
+allWriteOps: 0
+************(L)FV-treeR-SJ************
+treeType: fpstree
+rInput: src/main/java/input/r_1w_dec.txt
+sInput: src/main/java/input/s_1w_dec.txt
+output: src/main/java/output/out1
+threshold: 0.9
+indexTime: 0.0
+mineTime: 0.072
+time: 0.072
+************(L)FV-treeR-SJ************
+treeType: fpstree
+rInput: src/main/java/input/r_1w_dec.txt
+sInput: src/main/java/input/s_1w_dec.txt
+output: src/main/java/output/out1
+threshold: 0.9
+indexTime: 0.0
+mineTime: 0.074
+time: 0.074
+************FPSJoin************
+The number of set is 0 The number of elem is 0
+treeType: fpstree
+method: lenv1
+partitioner: 2147483647
+rInput: I:\集合相似度计算\CF-RS-Join\src\main\java\input\r_1w_dec.txt
+sInput: I:\集合相似度计算\CF-RS-Join\src\main\java\input\s_1w_dec.txt
+output: I:\集合相似度计算\CF-RS-Join\src\main\java\output
+threshold: 0.7
+numReducer: 1
+numThread: 1
+job1Time: 0.316
+job2Time: 5.084
+jobTime: 6.121
+diskUsage: 0.843928337097168 MB
+allReadOps: 0
+allWriteOps: 0
