@@ -20,5 +20,6 @@ This repository provides the Java implementation of two algorithms for fast set 
 Due to GitHub's file size upload limitations (100 MB), we are unable to include the datasets in this repository. Please download the datasets required for the experiment from the following website.
 
 - Dblp: [https://www2.cs.sfu.ca/~jnwang/data/adapt/querylog.format(data+query).tar.gz](https://www2.cs.sfu.ca/~jnwang/data/adapt/querylog.format(data+query).tar.gz)
-- Kosarak and Accidents: [http://fimi.uantwerpen.be/data/](http://fimi.uantwerpen.be/data/)
+- Kosarak: [http://fimi.uantwerpen.be/data/](http://fimi.uantwerpen.be/data/)
 - Enron: [https://www.cs.cmu.edu/~./enron/](https://www.cs.cmu.edu/~./enron/)
+- LiveJ, Querylog, Orkut, and Facebook: [http://ssjoin.dbresearch.uni-salzburg.at/datasets.html](http://ssjoin.dbresearch.uni-salzburg.at/datasets.html)
